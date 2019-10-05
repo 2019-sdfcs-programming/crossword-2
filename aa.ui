@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QTextEdit" name="textEdit">
+   <widget class="QTextEdit" name="A1">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -30,7 +30,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_12">
+   <widget class="QTextEdit" name="A21">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -46,7 +46,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_15">
+   <widget class="QTextEdit" name="A2">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -62,7 +62,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_17">
+   <widget class="QTextEdit" name="A12">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -78,7 +78,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_21">
+   <widget class="QTextEdit" name="A10">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -94,7 +94,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_23">
+   <widget class="QTextEdit" name="A22">
     <property name="geometry">
      <rect>
       <x>220</x>
@@ -110,7 +110,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_24">
+   <widget class="QTextEdit" name="A4">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -126,7 +126,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_27">
+   <widget class="QTextEdit" name="A3">
     <property name="geometry">
      <rect>
       <x>220</x>
@@ -142,7 +142,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_30">
+   <widget class="QTextEdit" name="A23">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -158,7 +158,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_31">
+   <widget class="QTextEdit" name="A8">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -174,7 +174,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_33">
+   <widget class="QTextEdit" name="A15">
     <property name="geometry">
      <rect>
       <x>580</x>
@@ -190,7 +190,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_44">
+   <widget class="QTextEdit" name="A31">
     <property name="geometry">
      <rect>
       <x>580</x>
@@ -206,7 +206,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_45">
+   <widget class="QTextEdit" name="A29">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -222,7 +222,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_47">
+   <widget class="QTextEdit" name="A25">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -238,7 +238,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_48">
+   <widget class="QTextEdit" name="A13">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -254,7 +254,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_49">
+   <widget class="QTextEdit" name="A27">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -270,7 +270,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_51">
+   <widget class="QTextEdit" name="A24">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -286,7 +286,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_52">
+   <widget class="QTextEdit" name="A19">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -302,7 +302,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_53">
+   <widget class="QTextEdit" name="A14">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -318,7 +318,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_54">
+   <widget class="QTextEdit" name="A6">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -334,7 +334,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_58">
+   <widget class="QTextEdit" name="A5">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -350,7 +350,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_63">
+   <widget class="QTextEdit" name="A30">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -366,7 +366,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_64">
+   <widget class="QTextEdit" name="A16">
     <property name="geometry">
      <rect>
       <x>670</x>
@@ -382,7 +382,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_68">
+   <widget class="QTextEdit" name="A18">
     <property name="geometry">
      <rect>
       <x>850</x>
@@ -398,7 +398,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_69">
+   <widget class="QTextEdit" name="A20">
     <property name="geometry">
      <rect>
       <x>760</x>
@@ -414,7 +414,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_71">
+   <widget class="QTextEdit" name="A33">
     <property name="geometry">
      <rect>
       <x>850</x>
@@ -430,7 +430,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_74">
+   <widget class="QTextEdit" name="A32">
     <property name="geometry">
      <rect>
       <x>760</x>
@@ -446,7 +446,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_75">
+   <widget class="QTextEdit" name="A34">
     <property name="geometry">
      <rect>
       <x>940</x>
@@ -462,7 +462,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_77">
+   <widget class="QTextEdit" name="A11">
     <property name="geometry">
      <rect>
       <x>850</x>
@@ -478,7 +478,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_78">
+   <widget class="QTextEdit" name="A26">
     <property name="geometry">
      <rect>
       <x>760</x>
@@ -494,7 +494,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_80">
+   <widget class="QTextEdit" name="A9">
     <property name="geometry">
      <rect>
       <x>850</x>
@@ -510,7 +510,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_84">
+   <widget class="QTextEdit" name="A17">
     <property name="geometry">
      <rect>
       <x>760</x>
@@ -526,7 +526,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_85">
+   <widget class="QTextEdit" name="A28">
     <property name="geometry">
      <rect>
       <x>760</x>
@@ -542,7 +542,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_88">
+   <widget class="QTextEdit" name="A7">
     <property name="geometry">
      <rect>
       <x>850</x>
@@ -558,7 +558,7 @@
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_2">
+   <widget class="QTextEdit" name="T1">
     <property name="geometry">
      <rect>
       <x>1060</x>
@@ -593,7 +593,7 @@
      <string>가로</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="B1">
     <property name="geometry">
      <rect>
       <x>180</x>
@@ -612,7 +612,7 @@
      <string>1</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="B2">
     <property name="geometry">
      <rect>
       <x>260</x>
@@ -631,7 +631,7 @@
      <string>3</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="B3">
     <property name="geometry">
      <rect>
       <x>340</x>
@@ -650,7 +650,7 @@
      <string>5</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="B4">
     <property name="geometry">
      <rect>
       <x>420</x>
@@ -669,7 +669,7 @@
      <string>7</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_5">
+   <widget class="QPushButton" name="B5">
     <property name="geometry">
      <rect>
       <x>500</x>
@@ -688,7 +688,7 @@
      <string>9</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_6">
+   <widget class="QPushButton" name="B6">
     <property name="geometry">
      <rect>
       <x>630</x>
@@ -707,7 +707,7 @@
      <string>2</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_7">
+   <widget class="QPushButton" name="B7">
     <property name="geometry">
      <rect>
       <x>710</x>
@@ -726,7 +726,7 @@
      <string>4</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_8">
+   <widget class="QPushButton" name="B8">
     <property name="geometry">
      <rect>
       <x>790</x>
@@ -745,7 +745,7 @@
      <string>6</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_9">
+   <widget class="QPushButton" name="B9">
     <property name="geometry">
      <rect>
       <x>870</x>
@@ -764,7 +764,7 @@
      <string>8</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_10">
+   <widget class="QPushButton" name="B10">
     <property name="geometry">
      <rect>
       <x>950</x>
@@ -783,7 +783,7 @@
      <string>10</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_3">
+   <widget class="QTextEdit" name="T2">
     <property name="geometry">
      <rect>
       <x>1110</x>
