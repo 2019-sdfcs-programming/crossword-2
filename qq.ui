@@ -418,23 +418,7 @@
     <property name="geometry">
      <rect>
       <x>850</x>
-      <y>680</y>
-      <width>81</width>
-      <height>81</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>함초롬돋움</family>
-      <pointsize>25</pointsize>
-     </font>
-    </property>
-   </widget>
-   <widget class="QTextEdit" name="A32">
-    <property name="geometry">
-     <rect>
-      <x>760</x>
-      <y>680</y>
+      <y>590</y>
       <width>81</width>
       <height>81</height>
      </rect>
@@ -450,7 +434,7 @@
     <property name="geometry">
      <rect>
       <x>940</x>
-      <y>680</y>
+      <y>590</y>
       <width>81</width>
       <height>81</height>
      </rect>
@@ -917,7 +901,7 @@
     <property name="geometry">
      <rect>
       <x>730</x>
-      <y>660</y>
+      <y>590</y>
       <width>31</width>
       <height>71</height>
      </rect>
